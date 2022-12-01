@@ -26,7 +26,6 @@ public class ScannerExample {
 				break;
 			}
 			System.out.println("출력된 문자열 : "+ data);
-			
 		}
 		System.out.println("종료");
 	}
